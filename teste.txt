@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Lucas Ranieri
-=======
 Lucas Ranieri Oliveira Alves 
->>>>>>> develop
+aula de git
